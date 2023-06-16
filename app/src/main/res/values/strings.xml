@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClipBoard Activity</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="copy_hint">Enter Text</string>
+    <string name="paste_hint">Paste Text</string>
+</resources>
